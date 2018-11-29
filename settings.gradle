@@ -1,1 +1,1 @@
-include ':lib_base'
+include ':lib_base', ':demo'
